@@ -32,3 +32,4 @@ dist/
 
 # Streamlit
 .streamlit/
+simulations.db
